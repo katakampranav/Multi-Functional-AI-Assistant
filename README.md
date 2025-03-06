@@ -108,10 +108,8 @@ streamlit run app.py
 8. **Multi-Turn Interaction**:
    - The system supports multi-turn conversations, where the user can ask follow-up questions or modify inputs for further processing without having to reload the page.
   
-**Architecture**
+## Architecture
 ![Image](https://github.com/user-attachments/assets/786435c4-a221-4fcc-91c4-8628a76f087b)
-
----
 
 
 ## 📬 Contact
