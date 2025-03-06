@@ -62,7 +62,7 @@ GEMINI_API_KEY=your_google_gemini_api_key
 
 #### 5️⃣ Run the Application
 ```sh
-streamlit run app.py
+streamlit run Home.py
 ```
 
 ## 📌 Usage
