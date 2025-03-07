@@ -24,7 +24,7 @@ def analyze_sentiment(text):
     if text:
         # Load environment variables for API key
         load_dotenv()
-        TOGETHER_AI_API = os.getenv("api_key")
+        TOGETHER_AI_API = os.getenv("TOGETHER_AI_API_KEY")
 
         # Initialize Together API client
         client = Together(api_key=TOGETHER_AI_API)
